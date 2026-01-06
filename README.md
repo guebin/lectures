@@ -1,73 +1,37 @@
-# Lectures
+# 📚 Lectures
 
-> *Note: Course names in **bold italics** are graduate-level classes.*
-
----
-
-## 2025
-
-- [IAB Basic Statistics](https://guebin.github.io/IAB-BS2025/)  
-- [***Advanced Probability Theory***](https://guebin.github.io/AP2025/)
-- [IAB Programming](https://guebin.github.io/IAB-PR2025/)
-- [Deep Learning](https://guebin.github.io/DL2025/)
-- [Winter Program: Data Science Toolbox](https://guebin.github.io/DSTBX2025/)
-
----
-
-## 2024
-
-- [Statistics Seminar](https://guebin.github.io/SS2024/)
-- [Machine Learning in Practice](https://guebin.github.io/MP2024/)
-- [Python Programming](https://guebin.github.io/PP2024/)
-- [Statistical Computing](https://guebin.github.io/SC2024/)
-- [Deep Learning](https://guebin.github.io/DL2024/)
-- [Winter Program: Statistical Data Analysis using Python](https://guebin.github.io/PP2024WIN)
-- [Winter Program: Data Science Toolbox](https://guebin.github.io/DSTBX2024/)
-
----
-
-## 2023
-
-- [***Special Topics in Big Data Analysis***](https://guebin.github.io/STBDA2023/)
-- [Machine Learning in Practice](https://guebin.github.io/MP2023/)
-- [Data Visualization](https://guebin.github.io/DV2023/)
-- [Short Lecture: Introduction to Reinforcement Learning](https://guebin.github.io/RL2023SL/)
-- [Summer Program: Statistical Data Analysis using Python](https://guebin.github.io/PP2023SUM/)
-- [***Advanced Probability Theory***](https://guebin.github.io/AP2023/)
-- [Stochastic Processes](https://guebin.github.io/SP2023/)
-- [Python Programming](https://guebin.github.io/PP2023/)
-- [Winter Program: Statistical Data Analysis using Python](https://guebin.github.io/IP2023WIN/)
-
----
-
-## 2022
-
-- [***Special Topics in Machine Learning***](https://guebin.github.io/STML2022/)
-- [Data Visualization](https://guebin.github.io/DV2022/)
-- [Deep Learning](https://guebin.github.io/DL2022/)
-- Summer Program: Reinforcement Learning
-- [***Special Topics in Big Data Analysis***](https://guebin.github.io/STBDA2022/)
-- [Data Science](https://guebin.github.io/DS2022/)
-- [Statistical Computing](https://guebin.github.io/SC2022/)
-- [Introduction to Python](https://guebin.github.io/IP2022/)
-- Winter Program: ADsP (Advanced Data Analytics Semi-Professional)
-- [Winter Program: Introduction to Python](https://guebin.github.io/IP2022WIN/)
-
----
-
-## 2021
-
-- [***Special Topics in Data Visualization***](https://guebin.github.io/STDV2021/)
-- [Big Data Analysis](https://guebin.github.io/BDA2021/)
-- [Data Visualization](https://guebin.github.io/DV2021/)
-- [Introduction to R](https://guebin.github.io/IR2021/)
-- ***Special Topics in Statistical Computing***
-- Data Science
-- Introduction to Python
-
----
-
-## 2020 (Soongsil University)
-
-- Mathematical Statistics
-- Time Series Analysis
+| 연도 | 과목명 | 구분 | 비고 |
+|:---:|:---|:---:|:-------|
+| **2025** | 기초통계학 | 학부 | 통계학의 기본 개념과 원리 |
+| | 확률론 | 대학원 | 측도론 기반 확률론 |
+| | 프로그래밍 | 학부 | 데이터 분석을 위한 프로그래밍 기초 |
+| | 딥러닝 | 학부 | 신경망 이론과 실습 |
+| | 데이터사이언스 도구 | Winter | DS 도구 활용 집중 과정 |
+| **2024** | 통계세미나 | 학부 | 최신 통계 연구 주제 토론 |
+| | 실전머신러닝 | 학부 | ML 실무 적용 |
+| | 파이썬프로그래밍 | 학부 | Python 기초 및 데이터 처리 |
+| | 통계전산 | 학부 | 통계 계산 및 시뮬레이션 |
+| | 딥러닝 | 학부 | 신경망 이론과 실습 |
+| **2023** | 빅데이터분석특론 | 대학원 | 대규모 데이터 분석 기법 |
+| | 실전머신러닝 | 학부 | ML 실무 적용 |
+| | 데이터시각화 | 학부 | 시각화 원리와 실습 |
+| | 강화학습 입문 | 특강 | RL 기초 이론 |
+| | 확률론 | 대학원 | 측도론 기반 확률론 |
+| | 확률과정론 | 학부 | 마르코프 체인, 포아송 과정 |
+| | 파이썬프로그래밍 | 학부 | Python 기초 및 데이터 처리 |
+| **2022** | 기계학습특론 | 대학원 | 고급 ML 알고리즘 |
+| | 데이터시각화 | 학부 | 시각화 원리와 실습 |
+| | 딥러닝 | 학부 | 신경망 이론과 실습 |
+| | 빅데이터분석특론 | 대학원 | 대규모 데이터 분석 기법 |
+| | 데이터사이언스 | 학부 | 데이터 과학 개론 |
+| | 통계전산 | 학부 | 통계 계산 및 시뮬레이션 |
+| | 파이썬입문 | 학부 | Python 프로그래밍 기초 |
+| **2021** | 데이터시각화특론 | 대학원 | 고급 시각화 기법 |
+| | 빅데이터분석 | 학부 | 빅데이터 처리 및 분석 |
+| | 데이터시각화 | 학부 | 시각화 원리와 실습 |
+| | R입문 | 학부 | R 프로그래밍 기초 |
+| | 통계전산특론 | 대학원 | 고급 통계 계산 기법 |
+| | 데이터사이언스 | 학부 | 데이터 과학 개론 |
+| | 파이썬입문 | 학부 | Python 프로그래밍 기초 |
+| **2020** | 수리통계학 | 학부 | 통계적 추론의 수학적 기초 |
+| *(숭실대)* | 시계열분석 | 학부 | 시계열 데이터 모델링 |
