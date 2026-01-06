@@ -3,7 +3,7 @@
 | 연도 | 과목명 | 구분 | 비고 |
 |:---:|:---|:---:|:---|
 | **2025** | [IAB기초통계](https://guebin.github.io/IAB-BS2025/) | 학부 | |
-| | [확률론](https://guebin.github.io/AP2025/) | 대학원 | |
+| | [고급확률론](https://guebin.github.io/AP2025/) | 대학원 | |
 | | [IAB프로그래밍](https://guebin.github.io/IAB-PR2025/) | 학부 | `jupyterlite` |
 | | [딥러닝](https://guebin.github.io/DL2025/) | 학부 | |
 | | [데이터과학툴박스](https://guebin.github.io/DSTBX2025/) | 특강 | |
@@ -16,7 +16,7 @@
 | | [기계학습활용](https://guebin.github.io/MP2023/) | 학부 | `AutoGluon`|
 | | [데이터시각화](https://guebin.github.io/DV2023/) | 학부 | |
 | | [강화학습특강](https://guebin.github.io/RL2023SL/) | 특강 | |
-| | [확률론](https://guebin.github.io/AP2023/) | 대학원 | |
+| | [고급확률론](https://guebin.github.io/AP2023/) | 대학원 | |
 | | [확률과정론](https://guebin.github.io/SP2023/) | 학부 | |
 | | [파이썬프로그래밍](https://guebin.github.io/PP2023/) | 학부 | |
 | **2022** | [기계학습특강](https://guebin.github.io/STML2022/) | 대학원 | |
