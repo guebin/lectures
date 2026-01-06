@@ -1,7 +1,7 @@
 # 📚 Lectures
 
 | 연도 | 과목명 | 구분 | 강의노트+영상 | Tool | 주요내용 |
-|:---|:--------|:-|:---|:-|:------|
+|:-|:----|:-|:----|:-|:----|
 | **2025** | IAB기초통계 | 학부 | https://guebin.github.io/IAB-BS2025/ | | 확률, 가능도, 데이터분석, AI도구활용 |
 | | 고급확률론 | 대학원 | https://guebin.github.io/AP2025/ | | |
 | | IAB프로그래밍 | 학부 | https://guebin.github.io/IAB-PR2025/ | R, Python| 데이터과학을 위한 R, Python|
