@@ -5,7 +5,7 @@
 | **2025** | IAB기초통계 | 학부 | https://guebin.github.io/IAB-BS2025/ | | 확률, 가능도, 데이터분석, AI도구활용 |
 | | 고급확률론 | 대학원 | https://guebin.github.io/AP2025/ | | 측도론, 확률론|
 | | IAB프로그래밍 | 학부 | https://guebin.github.io/IAB-PR2025/ | R, Python| 데이터과학을 위한 R, Python|
-| | 딥러닝 | 학부 | https://guebin.github.io/DL2025/ | Python(pytorch) | |
+| | 딥러닝 | 학부 | https://guebin.github.io/DL2025/ | Python(PyTorch) | 회귀, 로지스틱, 깊은신경망, 합성곱신경망, XAI, 생성모형(GAN), 추천시스템, 순환신경망, 강화학습|
 | | 데이터과학툴박스 | 특강 | https://guebin.github.io/DSTBX2025/ | | |
 | **2024** | 통계세미나 | 학부 | https://guebin.github.io/SS2024/ | | |
 | | 기계학습활용 | 학부 | https://guebin.github.io/MP2024/ | | |
