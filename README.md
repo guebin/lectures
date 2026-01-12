@@ -4,7 +4,7 @@
 #### 2025
 - [IAB기초통계 (IAB Basic Statistics)](https://guebin.github.io/IAB-BS2025/) 
 - [***고급확률론 (Advanced Probability Theory)***](https://guebin.github.io/AP2025/)
-- [IAB프로그래밍 (IAB Programming)](https://guebin.github.io/IAB-PR2025/)  // ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- #### [IAB프로그래밍 (IAB Programming)](https://guebin.github.io/IAB-PR2025/)  // ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - [딥러닝 (Deep Learning)](https://guebin.github.io/DL2025/)
 - [겨울방학특강: 데이터과학툴박스 (Winter Program: Data Science Toolbox)](https://guebin.github.io/DSTBX2025/)
 
