@@ -3,7 +3,7 @@
 
 #### 2025
 <details>
-<summary>IAB프로그래밍 (IAB Programming) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="20"/></summary>
+<summary>IAB프로그래밍 (IAB Programming) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="15"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="15"/></summary>
 
 <br>
 
