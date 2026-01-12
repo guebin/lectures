@@ -3,13 +3,12 @@
 
 #### 2025
 <details>
-<summary>IAB기초통계 (IAB Basic Statistics) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) </summary> 
+<summary>IAB프로그래밍 (IAB Programming) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)</summary>
 
 <br>
 
-  * 강의노트+강의영상: https://guebin.github.io/IAB-BS2025/
-  * 주요내용: 확률, 가능도, 데이터분석, AI도구활용
-  * Tool: NA
+  * 강의노트+강의영상: https://guebin.github.io/IAB-PR2025/
+  * 주요내용: 데이터과학을 위한 R, Python
 </details>
 
 <details>
