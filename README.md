@@ -1,4 +1,3 @@
-```markdown
 ### Lectures
 > Note: Course names in bold italics are graduate classes
 
@@ -178,4 +177,3 @@
   * Tool: NA
 
 </details>
-```
