@@ -2,7 +2,7 @@
 > Note: Course names in bold italics are graduate classes
 
 #### 2025
-- [IAB기초통계 (IAB Basic Statistics)](https://guebin.github.io/IAB-BS2025/)
+- [IAB기초통계 (IAB Basic Statistics)](https://guebin.github.io/IAB-BS2025/) `Python`
 - [***고급확률론 (Advanced Probability Theory)***](https://guebin.github.io/AP2025/)
 - [IAB프로그래밍 (IAB Programming)](https://guebin.github.io/IAB-PR2025/) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 - [딥러닝 (Deep Learning)](https://guebin.github.io/DL2025/)
