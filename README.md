@@ -6,7 +6,7 @@
 - [***고급확률론 (Advanced Probability Theory)***](https://guebin.github.io/AP2025/)
 - [IAB프로그래밍 (IAB Programming)](https://guebin.github.io/IAB-PR2025/)
 - [딥러닝 (Deep Learning)](https://guebin.github.io/DL2025/)
-- [(비교과) 데이터과학툴박스 (Winter Program: Data Science Toolbox)](https://guebin.github.io/DSTBX2025/)
+- [겨울방학특강: 데이터과학툴박스 (Winter Program: Data Science Toolbox)](https://guebin.github.io/DSTBX2025/)
 
 <details>
 <summary>Show older lectures</summary>
@@ -17,19 +17,19 @@
 - [파이썬프로그래밍 (Python Programming)](https://guebin.github.io/PP2024/)
 - [통계전산 (Statistical Computing)](https://guebin.github.io/SC2024/)
 - [딥러닝 (Deep Learning)](https://guebin.github.io/DL2024/)
-- [(비교과) 파이썬을 활용한 통계자료분석 (Winter Program: Statistical Data Analysis using Python)](https://guebin.github.io/PP2024WIN)
-- [(비교과) 데이터과학툴박스 (Winter Program: Data Science Toolbox)](https://guebin.github.io/DSTBX2024/)
+- [겨울방학특강: 파이썬을 활용한 통계자료분석 (Winter Program: Statistical Data Analysis using Python)](https://guebin.github.io/PP2024WIN)
+- [겨울방학특강: 데이터과학툴박스 (Winter Program: Data Science Toolbox)](https://guebin.github.io/DSTBX2024/)
 
 #### 2023
 - [***빅데이터분석특론 (Special Topics in Big Data Analysis)***](https://guebin.github.io/STBDA2023/)
 - [기계학습활용 (Machine Learning in Practice)](https://guebin.github.io/MP2023/)
 - [데이터시각화 (Data Visualization)](https://guebin.github.io/DV2023/)
-- [(비교과) 강화학습특강 (Short Lecture: Introduction to Reinforcement Learning)](https://guebin.github.io/RL2023SL/)
-- [(비교과) 파이썬을 활용한 통계자료분석 (Summer Program: Statistical Data Analysis using Python)](https://guebin.github.io/PP2023SUM/)
+- [집중강연: 강화학습특강 (Short Lecture: Introduction to Reinforcement Learning)](https://guebin.github.io/RL2023SL/)
+- [여름방학특강: 파이썬을 활용한 통계자료분석 (Summer Program: Statistical Data Analysis using Python)](https://guebin.github.io/PP2023SUM/)
 - [***고급확률론 (Advanced Probability Theory)***](https://guebin.github.io/AP2023/)
 - [확률과정론 (Stochastic Processes)](https://guebin.github.io/SP2023/)
 - [파이썬프로그래밍 (Python Programming)](https://guebin.github.io/PP2023/)
-- [(비교과) 파이썬을 활용한 통계자료분석 (Winter Program: Statistical Data Analysis using Python)](https://guebin.github.io/IP2023WIN/)
+- [겨울방학특강: 파이썬을 활용한 통계자료분석 (Winter Program: Statistical Data Analysis using Python)](https://guebin.github.io/IP2023WIN/)
 
 #### 2022
 - [***기계학습특강 (Special Topics in Machine Learning)***](https://guebin.github.io/STML2022/)
@@ -39,7 +39,7 @@
 - [데이터과학 (Data Science)](https://guebin.github.io/DS2022/)
 - [통계전산 (Statistical Computing)](https://guebin.github.io/SC2022/)
 - [파이썬입문 (Introduction to Python)](https://guebin.github.io/IP2022/)
-- [(비교과) 파이썬입문 (Winter Program: Introduction to Python)](https://guebin.github.io/IP2022WIN/)
+- [겨울방학특강: 파이썬입문 (Winter Program: Introduction to Python)](https://guebin.github.io/IP2022WIN/)
 
 #### 2021
 - [***데이터시각화특강 (Special Topics in Data Visualization)***](https://guebin.github.io/STDV2021/)
