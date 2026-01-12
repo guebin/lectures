@@ -3,13 +3,7 @@
 
 #### 2025
 <details>
-<summary>IAB프로그래밍 (IAB Programming) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="15"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="15"/></summary>
-
-<br>
-
-  * 강의노트+강의영상: https://guebin.github.io/IAB-PR2025/
-  * 주요내용: 데이터과학을 위한 R, Python
-</details>
+<summary>IAB프로그래밍 (IAB Programming) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="18" align="bottom"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="18" align="bottom"/></summary>
 
 <details>
 <summary><b><i>고급확률론 (Advanced Probability Theory)</i></b></summary>
