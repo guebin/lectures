@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary>데이터과학툴박스 (Winter Program: Data Science Toolbox)</summary>
+<summary>(비교과) 데이터과학툴박스 (Winter Program: Data Science Toolbox)</summary>
 
   * 강의노트+강의영상: https://guebin.github.io/DSTBX2025/
   * 주요내용: 개발환경의 구축
