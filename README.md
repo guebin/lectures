@@ -4,7 +4,7 @@
 
 #### 2025
 
-- [IAB Basic Statistics ](https://guebin.github.io/IAB-BS2025/) 
+- [IAB 기초통계](https://guebin.github.io/IAB-BS2025/) 
 - [***Advanced Probability Theory***](https://guebin.github.io/AP2025/)
 - [IAB Programming](https://guebin.github.io/IAB-PR2025/) 
 - [Deep Learning](https://guebin.github.io/DL2025/)
