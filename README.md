@@ -3,7 +3,7 @@
 
 #### 2025
 <details>
-<summary>IAB기초통계 (IAB Basic Statistics)</summary>
+<summary>IAB기초통계 (IAB Basic Statistics)</summary> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 <br>
 
