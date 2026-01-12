@@ -1,5 +1,4 @@
 # Lectures
-
 > Note: Course names in bold italics are graduate classes
 
 #### 2025
@@ -43,8 +42,10 @@
   * Tool: Linux
 </details>
 
+---
+
 <details>
-<summary>Show older lectures</summary>
+<summary><b>📂 Show older lectures (2020-2024)</b></summary>
 
 #### 2024
 <details>
