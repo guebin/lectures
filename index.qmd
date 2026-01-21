@@ -2,7 +2,7 @@
 title: "Lectures"
 ---
 
-[전북대학교 통계학과 최규빈](https://github.com/guebin) 교수의 강의노트 아카이브입니다.
+전북대학교 통계학과 최규빈 교수의 강의 목록을 정리한 페이지입니다.
 
 ::: {.panel-tabset}
 
@@ -20,7 +20,7 @@ title: "Lectures"
 
 ### 2024
 
-- [통계세미나 (Statistics Seminar)](https://guebin.github.io/SS2024/)
+- [통계세미나 (Statistics Seminar): 측도론, 확률론](https://guebin.github.io/SS2024/)
 - [기계학습활용 (Machine Learning in Practice)](https://guebin.github.io/MP2024/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black" height="20">
 - [파이썬프로그래밍 (Python Programming)](https://guebin.github.io/PP2024/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20">
 - [통계전산 (Statistical Computing)](https://guebin.github.io/SC2024/) — <img src="https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white" height="20">
