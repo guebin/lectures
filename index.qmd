@@ -10,7 +10,7 @@ title: "Lectures"
 
 ### 2026
 
-- [딥러닝 (Deep Learning)](https://guebin.github.io/DL2026/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20">
+- 딥러닝 (Deep Learning) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20">
 
 ### 2025
 
@@ -59,7 +59,7 @@ title: "Lectures"
 
 ### 2026
 
-- [통계전산특강 (Special Topics in Statistical Computing)](https://guebin.github.io/STSC2026/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20"> | <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="20"> | <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="20"> | <img src="https://img.shields.io/badge/-Quarto-75AADB?logo=quarto&logoColor=white" height="20">
+- 통계전산특강 (Special Topics in Statistical Computing) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20"> | <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="20"> | <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="20"> | <img src="https://img.shields.io/badge/-Quarto-75AADB?logo=quarto&logoColor=white" height="20">
 
 ### 2025
 
