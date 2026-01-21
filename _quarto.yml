@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lectures"
+  description: "강의노트 아카이브"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+  page-footer:
+    center: "© Guebin Choi"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3

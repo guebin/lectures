@@ -1,0 +1,282 @@
+---
+title: "Lectures"
+subtitle: "강의노트 아카이브"
+---
+
+::: {.callout-note}
+**Note:** 굵은 기울임체로 표시된 강의는 대학원 수업입니다.
+:::
+
+## 2025
+
+::: {.card}
+### IAB프로그래밍 (IAB Programming) {{< fa brands python >}}
+
+- **강의노트+강의영상:** <https://guebin.github.io/IAB-PR2025/>
+- **주요내용:** 데이터과학을 위한 R, Python
+- **Tool:** R, Python
+:::
+
+::: {.card .graduate}
+### ***고급확률론 (Advanced Probability Theory)***
+
+- **강의노트+강의영상:** <https://guebin.github.io/AP2025/>
+- **주요내용:** NA
+- **Tool:** NA
+:::
+
+::: {.card}
+### 딥러닝 (Deep Learning)
+
+- **강의노트+강의영상:** <https://guebin.github.io/DL2025/>
+- **주요내용:** 딥러닝 핵심 알고리즘을 PyTorch로 처음부터 직접 구현
+- **Tool:** Python (PyTorch)
+:::
+
+::: {.card}
+### 데이터과학툴박스 (Winter Program: Data Science Toolbox)
+
+- **강의노트+강의영상:** <https://guebin.github.io/DSTBX2025/>
+- **주요내용:** 개발환경의 구축
+- **Tool:** Linux
+:::
+
+---
+
+## 2024
+
+::: {.card}
+### 통계세미나 (Statistics Seminar)
+
+- **강의노트+강의영상:** <https://guebin.github.io/SS2024/>
+- **주요내용:** 측도론, 확률론
+- **Tool:** NA
+:::
+
+::: {.card}
+### 기계학습활용 (Machine Learning in Practice)
+
+- **강의노트+강의영상:** <https://guebin.github.io/MP2024/>
+- **주요내용:** 허깅페이스를 활용한 텍스트,이미지,동영상 자료분석
+- **Tool:** Python (HuggingFace)
+:::
+
+::: {.card}
+### 파이썬프로그래밍 (Python Programming)
+
+- **강의노트+강의영상:** <https://guebin.github.io/PP2024/>
+- **주요내용:** 데이터분석을 위한 파이썬기초
+- **Tool:** Python
+:::
+
+::: {.card}
+### 통계전산 (Statistical Computing)
+
+- **강의노트+강의영상:** <https://guebin.github.io/SC2024/>
+- **주요내용:** 수리통계기본, 샘플링, 선형대수기본, 행렬의분해, 릿지
+- **Tool:** Julia
+:::
+
+::: {.card}
+### 딥러닝 (Deep Learning)
+
+- **강의노트+강의영상:** <https://guebin.github.io/DL2024/>
+- **주요내용:** 딥러닝 핵심 알고리즘을 PyTorch로 처음부터 직접 구현
+- **Tool:** Python (PyTorch)
+:::
+
+::: {.card}
+### 파이썬을 활용한 통계자료분석 (Winter Program)
+
+- **강의노트+강의영상:** <https://guebin.github.io/PP2024WIN>
+- **주요내용:** NA
+- **Tool:** Python
+:::
+
+::: {.card}
+### 데이터과학툴박스 (Winter Program: Data Science Toolbox)
+
+- **강의노트+강의영상:** <https://guebin.github.io/DSTBX2024/>
+- **주요내용:** 개발환경의 구축
+- **Tool:** Linux
+:::
+
+---
+
+## 2023
+
+::: {.card .graduate}
+### ***빅데이터분석특론 (Special Topics in Big Data Analysis)***
+
+- **강의노트+강의영상:** <https://guebin.github.io/STBDA2023/>
+- **주요내용:** NA
+- **Tool:** NA
+:::
+
+::: {.card}
+### 기계학습활용 (Machine Learning in Practice)
+
+- **강의노트+강의영상:** <https://guebin.github.io/MP2023/>
+- **주요내용:** 오토글루온을 활용한 tabular data 분석
+- **Tool:** Python (AutoGluon)
+:::
+
+::: {.card}
+### 데이터시각화 (Data Visualization)
+
+- **강의노트+강의영상:** <https://guebin.github.io/DV2023/>
+- **주요내용:** 데이터처리 및 시각화, 지리정보시각화, 인터랙티브 시각화, 대시보드
+- **Tool:** Python
+:::
+
+::: {.card}
+### 강화학습특강 (Short Lecture: Introduction to Reinforcement Learning)
+
+- **강의노트+강의영상:** <https://guebin.github.io/RL2023SL/>
+- **주요내용:** NA
+- **Tool:** NA
+:::
+
+::: {.card}
+### 파이썬을 활용한 통계자료분석 (Summer Program)
+
+- **강의노트+강의영상:** <https://guebin.github.io/PP2023SUM/>
+- **주요내용:** NA
+- **Tool:** Python
+:::
+
+::: {.card .graduate}
+### ***고급확률론 (Advanced Probability Theory)***
+
+- **강의노트+강의영상:** <https://guebin.github.io/AP2023/>
+- **주요내용:** NA
+- **Tool:** NA
+:::
+
+::: {.card}
+### 확률과정론 (Stochastic Processes)
+
+- **강의노트+강의영상:** <https://guebin.github.io/SP2023/>
+- **주요내용:** 확률과정, 마코프체인, MCMC
+- **Tool:** Python
+:::
+
+::: {.card}
+### 파이썬프로그래밍 (Python Programming)
+
+- **강의노트+강의영상:** <https://guebin.github.io/PP2023/>
+- **주요내용:** 데이터분석을 위한 파이썬기초
+- **Tool:** Python
+:::
+
+::: {.card}
+### 파이썬을 활용한 통계자료분석 (Winter Program)
+
+- **강의노트+강의영상:** <https://guebin.github.io/IP2023WIN/>
+- **주요내용:** NA
+- **Tool:** Python
+:::
+
+---
+
+## 2022
+
+::: {.card .graduate}
+### ***기계학습특강 (Special Topics in Machine Learning)***
+
+- **강의노트+강의영상:** <https://guebin.github.io/STML2022/>
+- **주요내용:** NA
+- **Tool:** NA
+:::
+
+::: {.card}
+### 데이터시각화 (Data Visualization)
+
+- **강의노트+강의영상:** <https://guebin.github.io/DV2022/>
+- **주요내용:** 데이터처리 및 시각화, 지리정보시각화, 인터랙티브 시각화, 대시보드
+- **Tool:** Python
+:::
+
+::: {.card}
+### 딥러닝 (Deep Learning)
+
+- **강의노트+강의영상:** <https://guebin.github.io/DL2022/>
+- **주요내용:** 딥러닝 핵심 알고리즘을 PyTorch로 처음부터 직접 구현
+- **Tool:** Python (PyTorch)
+:::
+
+::: {.card .graduate}
+### ***빅데이터분석특강 (Special Topics in Big Data Analysis)***
+
+- **강의노트+강의영상:** <https://guebin.github.io/STBDA2022/>
+- **주요내용:** NA
+- **Tool:** NA
+:::
+
+::: {.card}
+### 데이터과학 (Data Science)
+
+- **강의노트+강의영상:** <https://guebin.github.io/DS2022/>
+- **주요내용:** 텐서플로우/케라스 딥러닝
+- **Tool:** Python (TensorFlow/Keras)
+:::
+
+::: {.card}
+### 통계전산 (Statistical Computing)
+
+- **강의노트+강의영상:** <https://guebin.github.io/SC2022/>
+- **주요내용:** 수리통계기본, 샘플링, 선형대수기본, 행렬의분해, 릿지
+- **Tool:** Julia
+:::
+
+::: {.card}
+### 파이썬입문 (Introduction to Python)
+
+- **강의노트+강의영상:** <https://guebin.github.io/IP2022/>
+- **주요내용:** 데이터분석을 위한 파이썬기초
+- **Tool:** Python
+:::
+
+::: {.card}
+### 파이썬입문 (Winter Program: Introduction to Python)
+
+- **강의노트+강의영상:** <https://guebin.github.io/IP2022WIN/>
+- **주요내용:** 데이터분석을 위한 파이썬기초
+- **Tool:** Python
+:::
+
+---
+
+## 2021
+
+::: {.card .graduate}
+### ***데이터시각화특강 (Special Topics in Data Visualization)***
+
+- **강의노트+강의영상:** <https://guebin.github.io/STDV2021/>
+- **주요내용:** NA
+- **Tool:** NA
+:::
+
+::: {.card}
+### 빅데이터분석 (Big Data Analysis)
+
+- **강의노트+강의영상:** <https://guebin.github.io/BDA2021/>
+- **주요내용:** 딥러닝 핵심 알고리즘의 이해 및 활용
+- **Tool:** Python (PyTorch)
+:::
+
+::: {.card}
+### 데이터시각화 (Data Visualization)
+
+- **강의노트+강의영상:** <https://guebin.github.io/DV2021/>
+- **주요내용:** 데이터처리 및 시각화, 지리정보시각화, 인터랙티브 시각화, 대시보드
+- **Tool:** Python
+:::
+
+::: {.card}
+### R입문 (Introduction to R)
+
+- **강의노트+강의영상:** <https://guebin.github.io/IR2021/>
+- **주요내용:** 데이터분석을 위한 R기초
+- **Tool:** R
+:::
