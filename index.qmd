@@ -110,5 +110,5 @@ title: "Lectures"
 >
 > 예시:
 >
-> - <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5">: 파이썬을 활용하지만 파이썬의 사용법 자체가 목적은 아닌 강의
+> - <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5">: 파이썬을 활용하지만 파이썬의 사용법 자체가 강의의 목적은 아님을 의미
 > - <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20">: 파이썬을 다루며, 파이썬을 능숙하게 다루는 것 자체가 강의 목적 중 하나에 포함됨을 의미
