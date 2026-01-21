@@ -2,15 +2,7 @@
 title: "Lectures"
 ---
 
-> **Note 1**: 강좌를 클릭하면 강의노트와 영상이 제공되는 홈페이지로 이동합니다. 링크가 없는 강좌는 강의자료가 없습니다. (비밀이어서가 아니라 홈페이지 정리하는 법을 몰랐거나, 너무 단기 강의라 홈페이지를 만들지 못한 경우입니다.)
->
-> **Note 2**: 본 강의자료는 전북대학교 학생들의 수강 및 복습을 용이하게 하기 위해 정리된 것입니다.
->
-> **Note 3**: 본 강의자료는 모두 무료로 제공됩니다. 따라서 (당연히?) 전북대 학생이 아니더라도 누구나 자유롭게 공부하실 수 있습니다.
->
-> **Note 4**: 강의 내용을 있는 그대로 업로드하는 방식으로 운영되어, 전문 유튜버 채널처럼 정교하게 편집된 영상은 제공되지 않습니다. 이 점 너그럽게 양해 부탁드립니다.
->
-> **Note 5**: 아이콘은 강의에서 사용하는 도구를 나타냅니다. 진한 아이콘은 강의에서 주로 다루는 도구로, 해당 도구의 친숙도를 높이는 것이 강의 목적 중 하나입니다. 흐린 아이콘은 강의 내용을 전달하기 위해 보조적으로 사용되는 도구로, 이 도구의 사용법 자체를 가르치는 것이 목적이 아니라 다른 내용을 전달하기 위한 수단으로 활용됩니다.
+[전북대학교 통계학과 최규빈](https://github.com/guebin) 교수의 강의노트 아카이브입니다.
 
 ::: {.panel-tabset}
 
@@ -113,3 +105,10 @@ title: "Lectures"
 - [파이썬입문 (Winter Program: Introduction to Python)](https://guebin.github.io/IP2022WIN/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20">
 
 :::
+
+> **Note**: 강의명 옆의 아이콘은 강의에서 사용하는 도구를 나타냅니다. 진한 아이콘은 강의에서 주로 다루는 도구를, 흐린 아이콘은 강의 내용을 전달하기 위해 보조적으로 사용되는 도구를 의미합니다.
+>
+> 예시:
+>
+> - <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5">: 파이썬을 활용하지만 파이썬의 사용법 자체가 목적은 아닌 강의
+> - <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20">: 파이썬을 다루며, 파이썬을 능숙하게 다루는 것 자체가 강의 목적 중 하나에 포함됨을 의미
