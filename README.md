@@ -3,14 +3,16 @@
 
 #### 2025
 
+### ▶ IAB프로그래밍 (IAB Programming)
 <details>
-<summary>IAB프로그래밍 (IAB Programming) <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="10">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="10">
-</summary>
+<summary>Details</summary>
 
-<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="14">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="14">
 
-
+- 강의노트+강의영상: https://guebin.github.io/IAB-PR2025/
+- 주요내용: 데이터과학을 위한 R, Python
+- Tool: R, Python
 </details>
 
 <details>
