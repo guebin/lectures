@@ -2,7 +2,15 @@
 title: "Lectures"
 ---
 
-> Note: Course names in bold italics are graduate classes
+> **Note 1**: 강좌를 클릭하면 강의노트와 영상이 제공되는 홈페이지로 이동합니다. 링크가 없는 강좌는 강의자료가 없습니다. (비밀이어서가 아니라 홈페이지 정리하는 법을 몰랐거나, 너무 단기 강의라 홈페이지를 만들지 못한 경우입니다.)
+>
+> **Note 2**: 본 강의자료는 전북대학교 학생들의 수강 및 복습을 용이하게 하기 위해 정리된 것입니다.
+>
+> **Note 3**: 본 강의자료는 모두 무료로 제공됩니다. 따라서 (당연히?) 전북대 학생이 아니더라도 누구나 자유롭게 공부하실 수 있습니다.
+>
+> **Note 4**: 강의 내용을 있는 그대로 업로드하는 방식으로 운영되어, 전문 유튜버 채널처럼 정교하게 편집된 영상은 제공되지 않습니다. 이 점 너그럽게 양해 부탁드립니다.
+>
+> **Note 5**: 아이콘은 강의에서 사용하는 도구를 나타냅니다. 진한 아이콘은 강의에서 주로 다루는 도구로, 해당 도구의 친숙도를 높이는 것이 강의 목적 중 하나입니다. 흐린 아이콘은 강의 내용을 전달하기 위해 보조적으로 사용되는 도구로, 이 도구의 사용법 자체를 가르치는 것이 목적이 아니라 다른 내용을 전달하기 위한 수단으로 활용됩니다.
 
 ::: {.panel-tabset}
 
@@ -10,51 +18,43 @@ title: "Lectures"
 
 ### 2026
 
-- [딥러닝 (Deep Learning)](https://guebin.github.io/DL2026/)
+- [딥러닝 (Deep Learning)](https://guebin.github.io/DL2026/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20">
 
 ### 2025
 
-- [IAB기초통계 (IAB Basic Statistics)](https://guebin.github.io/IAB-BS2025/)
-- [IAB프로그래밍 (IAB Programming)](https://guebin.github.io/IAB-PR2025/)
-- [딥러닝 (Deep Learning)](https://guebin.github.io/DL2025/)
-- [데이터과학툴박스 (Winter Program: Data Science Toolbox)](https://guebin.github.io/DSTBX2025/)
+- [IAB기초통계 (IAB Basic Statistics)](https://guebin.github.io/IAB-BS2025/) — <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" height="20" style="opacity: 0.5">, <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5">
+- [IAB프로그래밍 (IAB Programming)](https://guebin.github.io/IAB-PR2025/) — <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20">
+- [딥러닝 (Deep Learning)](https://guebin.github.io/DL2025/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20">
 
 ### 2024
 
 - [통계세미나 (Statistics Seminar)](https://guebin.github.io/SS2024/)
-- [기계학습활용 (Machine Learning in Practice)](https://guebin.github.io/MP2024/)
-- [파이썬프로그래밍 (Python Programming)](https://guebin.github.io/PP2024/)
-- [통계전산 (Statistical Computing)](https://guebin.github.io/SC2024/)
-- [딥러닝 (Deep Learning)](https://guebin.github.io/DL2024/)
-- [파이썬을 활용한 통계자료분석 (Winter Program: Statistical Data Analysis using Python)](https://guebin.github.io/PP2024WIN)
-- [데이터과학툴박스 (Winter Program: Data Science Toolbox)](https://guebin.github.io/DSTBX2024/)
+- [기계학습활용 (Machine Learning in Practice)](https://guebin.github.io/MP2024/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black" height="20">
+- [파이썬프로그래밍 (Python Programming)](https://guebin.github.io/PP2024/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20">
+- [통계전산 (Statistical Computing)](https://guebin.github.io/SC2024/) — <img src="https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white" height="20">
+- [딥러닝 (Deep Learning)](https://guebin.github.io/DL2024/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20">, <img src="https://img.shields.io/badge/-fastai-00A98F?logo=fastai&logoColor=white" height="20" style="opacity: 0.5">
 
 ### 2023
 
-- [기계학습활용 (Machine Learning in Practice)](https://guebin.github.io/MP2023/)
-- [데이터시각화 (Data Visualization)](https://guebin.github.io/DV2023/)
-- [강화학습특강 (Short Lecture: Introduction to Reinforcement Learning)](https://guebin.github.io/RL2023SL/)
-- [파이썬을 활용한 통계자료분석 (Summer Program: Statistical Data Analysis using Python)](https://guebin.github.io/PP2023SUM/)
-- [확률과정론 (Stochastic Processes)](https://guebin.github.io/SP2023/)
-- [파이썬프로그래밍 (Python Programming)](https://guebin.github.io/PP2023/)
-- [파이썬을 활용한 통계자료분석 (Winter Program: Statistical Data Analysis using Python)](https://guebin.github.io/IP2023WIN/)
+- [기계학습활용 (Machine Learning in Practice)](https://guebin.github.io/MP2023/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-Sklearn-F7931E?logo=scikitlearn&logoColor=white" height="20">, <img src="https://img.shields.io/badge/-AutoGluon-FF6600?logoColor=white" height="20">
+- [데이터시각화 (Data Visualization)](https://guebin.github.io/DV2023/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-Matplotlib-11557c?logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Seaborn-444876?logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Plotnine-276DC3?logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Folium-77B829?logo=folium&logoColor=white" height="20">
+- [확률과정론 (Stochastic Processes)](https://guebin.github.io/SP2023/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5">
+- [파이썬프로그래밍 (Python Programming)](https://guebin.github.io/PP2023/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20">
 
 ### 2022
 
-- [데이터시각화 (Data Visualization)](https://guebin.github.io/DV2022/)
-- [딥러닝 (Deep Learning)](https://guebin.github.io/DL2022/)
+- [데이터시각화 (Data Visualization)](https://guebin.github.io/DV2022/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-Matplotlib-11557c?logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Seaborn-444876?logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Plotnine-276DC3?logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Folium-77B829?logo=folium&logoColor=white" height="20">
+- [딥러닝 (Deep Learning)](https://guebin.github.io/DL2022/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20">, <img src="https://img.shields.io/badge/-fastai-00A98F?logo=fastai&logoColor=white" height="20" style="opacity: 0.5">
 - 강화학습특강 (Summer Program: Reinforcement Learning)
-- [데이터과학 (Data Science)](https://guebin.github.io/DS2022/)
-- [통계전산 (Statistical Computing)](https://guebin.github.io/SC2022/)
-- [파이썬입문 (Introduction to Python)](https://guebin.github.io/IP2022/)
-- ADsP특강 (Winter Program: ADsP)
-- [파이썬입문 (Winter Program: Introduction to Python)](https://guebin.github.io/IP2022WIN/)
+- [데이터과학 (Data Science)](https://guebin.github.io/DS2022/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white" height="20">
+- [통계전산 (Statistical Computing)](https://guebin.github.io/SC2022/) — <img src="https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white" height="20">
+- [파이썬입문 (Introduction to Python)](https://guebin.github.io/IP2022/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20">
 
 ### 2021
 
-- [빅데이터분석 (Big Data Analysis)](https://guebin.github.io/BDA2021/)
-- [데이터시각화 (Data Visualization)](https://guebin.github.io/DV2021/)
-- [R입문 (Introduction to R)](https://guebin.github.io/IR2021/)
+- [빅데이터분석 (Big Data Analysis)](https://guebin.github.io/BDA2021/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20">, <img src="https://img.shields.io/badge/-fastai-00A98F?logo=fastai&logoColor=white" height="20" style="opacity: 0.5">
+- [데이터시각화 (Data Visualization)](https://guebin.github.io/DV2021/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-Matplotlib-11557c?logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Seaborn-444876?logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Plotnine-276DC3?logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Folium-77B829?logo=folium&logoColor=white" height="20">
+- [R입문 (Introduction to R)](https://guebin.github.io/IR2021/) — <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" height="20"> : <img src="https://img.shields.io/badge/-tidyverse-1A162D?logo=tidyverse&logoColor=white" height="20" style="opacity: 0.5">, <img src="https://img.shields.io/badge/-ggplot2-276DC3?logoColor=white" height="20" style="opacity: 0.5">
 - 데이터과학 (Data Science)
 - 파이썬입문 (Introduction to Python)
 
@@ -67,7 +67,7 @@ title: "Lectures"
 
 ### 2026
 
-- [통계전산특강 (Special Topics in Statistical Computing)](https://guebin.github.io/STSC2026/)
+- [통계전산특강 (Special Topics in Statistical Computing)](https://guebin.github.io/STSC2026/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20"> | <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="20"> | <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="20"> | <img src="https://img.shields.io/badge/-Quarto-75AADB?logo=quarto&logoColor=white" height="20">
 
 ### 2025
 
@@ -75,17 +75,41 @@ title: "Lectures"
 
 ### 2023
 
-- [빅데이터분석특강 (Special Topics in Big Data Analysis)](https://guebin.github.io/STBDA2023/)
+- [빅데이터분석특강 (Special Topics in Big Data Analysis)](https://guebin.github.io/STBDA2023/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-Sklearn-F7931E?logo=scikitlearn&logoColor=white" height="20">, <img src="https://img.shields.io/badge/-AutoGluon-FF6600?logoColor=white" height="20">
 - [고급확률론 (Advanced Probability Theory)](https://guebin.github.io/AP2023/)
 
 ### 2022
 
-- [기계학습특강 (Special Topics in Machine Learning)](https://guebin.github.io/STML2022/)
-- [빅데이터분석특강 (Special Topics in Big Data Analysis)](https://guebin.github.io/STBDA2022/)
+- [기계학습특강 (Special Topics in Machine Learning)](https://guebin.github.io/STML2022/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20">, <img src="https://img.shields.io/badge/-fastai-00A98F?logo=fastai&logoColor=white" height="20" style="opacity: 0.5">
+- [빅데이터분석특강 (Special Topics in Big Data Analysis)](https://guebin.github.io/STBDA2022/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white" height="20">
 
 ### 2021
 
 - [데이터시각화특강 (Special Topics in Data Visualization)](https://guebin.github.io/STDV2021/)
 - 통계전산특강 (Special Topics in Statistical Computing)
+
+## 비교과
+
+*데이터과학툴박스는 학과 서버 보안 문제로 강의영상이 제공되지 않습니다.*
+
+### 2025
+
+- [데이터과학툴박스 (Winter Program: Data Science Toolbox)](https://guebin.github.io/DSTBX2025/) — <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="20"> | <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="20"> | <img src="https://img.shields.io/badge/-Quarto-75AADB?logo=quarto&logoColor=white" height="20">
+
+### 2024
+
+- [파이썬을 활용한 통계자료분석 (Winter Program: Statistical Data Analysis using Python)](https://guebin.github.io/PP2024WIN) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20">
+- [데이터과학툴박스 (Winter Program: Data Science Toolbox)](https://guebin.github.io/DSTBX2024/) — <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="20"> | <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="20"> | <img src="https://img.shields.io/badge/-Quarto-75AADB?logo=quarto&logoColor=white" height="20">
+
+### 2023
+
+- [파이썬을 활용한 통계자료분석 (Summer Program: Statistical Data Analysis using Python)](https://guebin.github.io/PP2023SUM/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20">
+- [파이썬을 활용한 통계자료분석 (Winter Program: Statistical Data Analysis using Python)](https://guebin.github.io/IP2023WIN/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20">
+- [강화학습특강 (Short Lecture: Introduction to Reinforcement Learning)](https://guebin.github.io/RL2023SL/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5"> : <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20">, <img src="https://img.shields.io/badge/-Gym-0081A5?logo=openaigym&logoColor=white" height="20">
+
+### 2022
+
+- ADsP특강 (Winter Program: ADsP)
+- [파이썬입문 (Winter Program: Introduction to Python)](https://guebin.github.io/IP2022WIN/) — <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20">
 
 :::
