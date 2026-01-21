@@ -3,7 +3,7 @@
 
 #### 2025
 
-### ▶ IAB프로그래밍 (IAB Programming) <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="14"> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="14">
+### IAB프로그래밍 (IAB Programming) <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="16"> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="16">
 
 <details>
 <summary>Details</summary>
