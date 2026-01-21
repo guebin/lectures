@@ -4,7 +4,13 @@
 #### 2025
 
 <details>
-<summary>IAB프로그래밍 (IAB Programming) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)</summary>
+<summary>IAB프로그래밍 (IAB Programming)</summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="18">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="18">
+
 </details>
 
 <details>
