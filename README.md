@@ -3,10 +3,10 @@
 
 #### 2025
 
-### IAB프로그래밍 (IAB Programming) <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="26">
-
 <details>
-<summary>Details</summary>
+<summary>IAB프로그래밍 (IAB Programming) <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="10">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="10">
+</summary>
 
 
 - 강의노트+강의영상: https://guebin.github.io/IAB-PR2025/
