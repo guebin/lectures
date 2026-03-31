@@ -127,22 +127,5 @@ title: "Lectures & Seminars"
 > - <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20" style="opacity: 0.5">: 파이썬을 활용하지만 파이썬의 사용법 자체가 강의의 목적은 아님을 의미
 > - <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20">: 파이썬을 다루며, 파이썬을 능숙하게 다루는 것 자체가 강의 목적 중 하나에 포함됨을 의미
 
-## 외부강연
-
-*selected*
-
-### 2026
-
-- [충남대학교 DS세미나 - 통계 연구자를 위한 에이전틱 AI 활용법](https://miruetoto.github.io/cnu-260330)
-- [다중척도연구실 세미나 - 통계 연구자를 위한 에이전틱 AI 활용법](https://miruetoto.github.io/agentic-260224/)
-- [다중척도워크샵 - gglite: A Lightweight and Intuitive R Package for Extending Graphic Grammar](https://miruetoto.github.io/gglite260110)
-- [다중척도워크샵 - Elastic-Band Transform–Integrated Spatio-Temporal Graph Neural Networks for Solar Radiation Forecasting](https://miruetoto.github.io/ebtsolar260108)
-
-### 2025
-
-- [JBIG 세미나 - ChatGPT시대의 코딩공부](https://miruetoto.github.io/JBIG-20251201)
-- [농촌진흥청 - Chat GPT를 이용한 파이썬 실무](https://guebin.github.io/rda251022/1022.html)
-- [농촌진흥청 - AI 기반 데이터 사이언스](https://guebin.github.io/rda250723/qslides.html)
-- [UNIST 세미나 - Exploring Multiscale Methods](https://guebin.github.io/unist0611/ppt.html)
-
 :::
+
